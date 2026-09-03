@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/02lab.dir/02_class_raii_and_explicit.cpp.o -o 02lab
