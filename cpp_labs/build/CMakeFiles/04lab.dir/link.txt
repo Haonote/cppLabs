@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/04lab.dir/04_rule_of_five_and_move.cpp.o -o 04lab
